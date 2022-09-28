@@ -1,0 +1,15 @@
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\bin\Debug\net6.0\tryCatchFinally.exe
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\bin\Debug\net6.0\tryCatchFinally.deps.json
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\bin\Debug\net6.0\tryCatchFinally.runtimeconfig.json
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\bin\Debug\net6.0\tryCatchFinally.dll
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\bin\Debug\net6.0\tryCatchFinally.pdb
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.AssemblyInfo.cs
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.dll
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\refint\tryCatchFinally.dll
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.pdb
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\tryCatchFinally.genruntimeconfig.cache
+C:\Users\kahra\Desktop\C#101\tryCatchFinally\obj\Debug\net6.0\ref\tryCatchFinally.dll
